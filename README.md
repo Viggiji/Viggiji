@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vighnesh Garg
-- 👀 I’m interested in General coding 
+- 👀 I’m interested in General coding (Havent learned that high level to decide what i want to learn)
 - 🌱 I’m currently learning HTML, C ,Python (Advanced)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @vighneshgarg96@gmail.com
