@@ -2,7 +2,7 @@
 - 👀 I’m interested in General coding (Havent learned that high level to decide what i want to learn)
 - 🌱 I’m currently learning HTML, C ,Python (Advanced)
 - Just Made a Youtube-kinda clone with just frontend using HtML ans CSS to see it click on the link below
-- https://www.youtube.com/watch?v=G3e-cpL7ofc
+- [https://www.youtube.com/watch?v=G3e-cpL7ofc](https://viggiji.github.io/Youtube-clone-kinda-/)
 - 📫 How to reach me - @vighneshgarg96@gmail.com
 - IN SRM institute of science and technology KTR(main campus)
 - ⚡ Fun fact: Want to earn a lot of money
